@@ -1,0 +1,1 @@
+{"cities":[{"name":"Macau","state":"","territory":"Macau","country":"China","latitude":22.1899448,"longitude":113.5380454,"population":682070,"stateCapital":false,"nationalCapital":false,"pk":null,"quiz":"asia","code":null,"archived":false,"percentageOfSessions":null}]}

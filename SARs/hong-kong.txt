@@ -1,0 +1,1 @@
+{"cities":[{"name":"Hong Kong","state":"","territory":"Hong Kong","country":"China","latitude":22.2793278,"longitude":114.1628131,"population":7413070,"stateCapital":false,"nationalCapital":false,"pk":null,"quiz":"asia","code":null,"archived":false,"percentageOfSessions":null}]}
