@@ -8,4 +8,6 @@ https://github.com/tyrasd/overpass-turbo
 
 actual data is found in the china-json.txt file
 
+thanks to sunny (Lib Ted) for some help early on discerning what data to include
+
 Total time spent: ~ 100 hours
