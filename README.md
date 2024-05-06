@@ -6,6 +6,6 @@ https://www.openstreetmap.org/copyright
 
 https://github.com/tyrasd/overpass-turbo
 
-actual data is found in the latvia-json.txt file
+actual data is found in the china-json.txt file
 
 Total time spent: ~ 100 hours
