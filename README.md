@@ -1,3 +1,5 @@
+please credit me (nyghts) for anything you use from this
+
 population data comes from citypopulation, while coordinates come from openstreetmap via overpass-turbo and from a shapefile stored in china-towns-xlsx.xlsx
 
 https://citypopulation.de/en/help/termsofuse/
